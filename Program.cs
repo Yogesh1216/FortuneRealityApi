@@ -45,7 +45,7 @@ var app = builder.Build();
 //}
 
 app.UseHttpsRedirection();
-app.UseCors("Angular");
+app.UseCors("AllowAngularApp");
 app.MapControllers();
 
 app.Run();
