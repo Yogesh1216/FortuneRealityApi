@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\models\\createleadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:models\\createleadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\business\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:business\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\dataaccess\\leadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:dataaccess\\leadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\dataaccess\\ileadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:dataaccess\\ileadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\business\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:business\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\dataaccess\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:dataaccess\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\dataaccess\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:dataaccess\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|c:\\users\\yogesh nain\\onedrive\\fortune reality\\fortunereality\\backend\\fortunereality.api\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264AA1FE-96B7-4686-AE8E-860838679663}|FortuneReality.Api.csproj|solutionrelative:models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeadsController.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Controllers\\LeadsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeadsController.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Controllers\\LeadsController.cs",
+              "RelativeToolTip": "Controllers\\LeadsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T12:21:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\DataAccess\\LeadRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\LeadRepository.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\DataAccess\\LeadRepository.cs",
+              "RelativeToolTip": "DataAccess\\LeadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T12:20:04.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILeadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\DataAccess\\ILeadRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ILeadRepository.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\DataAccess\\ILeadRepository.cs",
+              "RelativeToolTip": "DataAccess\\ILeadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T12:19:45.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateLeadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Models\\CreateLeadRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CreateLeadRequest.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Models\\CreateLeadRequest.cs",
+              "RelativeToolTip": "Models\\CreateLeadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T12:19:05.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-10T11:24:05.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Controllers\\PropertiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertiesController.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Controllers\\PropertiesController.cs",
+              "RelativeToolTip": "Controllers\\PropertiesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:01:23.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Business\\PropertyService.cs",
+              "RelativeDocumentMoniker": "Business\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Business\\PropertyService.cs",
+              "RelativeToolTip": "Business\\PropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:00:50.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Business\\IPropertyService.cs",
+              "RelativeDocumentMoniker": "Business\\IPropertyService.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Business\\IPropertyService.cs",
+              "RelativeToolTip": "Business\\IPropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:00:33.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\DataAccess\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\PropertyRepository.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\DataAccess\\PropertyRepository.cs",
+              "RelativeToolTip": "DataAccess\\PropertyRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv0wAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:00:09.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\DataAccess\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IPropertyRepository.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\DataAccess\\IPropertyRepository.cs",
+              "RelativeToolTip": "DataAccess\\IPropertyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T10:59:44.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "Models\\Property.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Models\\Property.cs",
+              "RelativeToolTip": "Models\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T10:59:24.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T10:58:56.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Yogesh Nain\\OneDrive\\Fortune Reality\\FortuneReality\\backend\\FortuneReality.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-10T10:57:59.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
